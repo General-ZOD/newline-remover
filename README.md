@@ -1,7 +1,8 @@
-/*
+
 @author: General ZOD
 @file: newline_remover.py
-*/
+
+
 This script removes all the extra newlines (lines between paragraphs) in any text file
 ---------------------------------------------------------------------------------
 
@@ -11,7 +12,7 @@ OR as a module
  call the "main(absolute_path_to_file)" function
 
 
-TECHNICAL 
+TECHNICAL ASPECT 
 
 algorithm
 ------------
